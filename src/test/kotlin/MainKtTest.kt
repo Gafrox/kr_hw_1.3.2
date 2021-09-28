@@ -76,6 +76,6 @@ class MainKtTest {
             currentTransfer = currentTransfer
         )
 
-        assertEquals(0.0, result, 0.0)
+        assertEquals(10.0, result, 0.0)
     }
 }
